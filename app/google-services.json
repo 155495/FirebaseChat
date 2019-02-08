@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "691966927771",
+    "firebase_url": "https://fir-chat-84621.firebaseio.com",
+    "project_id": "fir-chat-84621",
+    "storage_bucket": "fir-chat-84621.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691966927771:android:419ca07aec26e353",
+        "android_client_info": {
+          "package_name": "com.bivinvinod.firebasechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691966927771-2d1062jbuolcn7cuqokgno1bpt4lla3a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbimvt9wZ23UDhH3VeK6Q9s7MOQ-zPoHs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
